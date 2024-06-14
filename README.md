@@ -6,7 +6,7 @@ Download Guzheng_Tech99 here: https://huggingface.co/datasets/ccmusic-database/G
 
 # Train
 
-pyhton train.py
+pyhton run.py
 
 # Test
 
